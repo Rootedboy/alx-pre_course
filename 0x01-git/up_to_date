@@ -1,0 +1,8 @@
+alx-pre_course/0x01-git# git add .
+alx-pre_course/0x01-git# git push --set-upstream origin update_script
+alx-pre_course/0x01-git# cd bash
+alx-pre_course/0x01-git/bash# echo "ALX School is so cool!" >alx.txt
+alx-pre_course/0x01-git# rm -r js
+alx-pre_course/0x01-git# git add .
+alx-pre_course/0x01-git# git commit -m 'Hot fix'
+alx-pre_course/0x01-git# git push
